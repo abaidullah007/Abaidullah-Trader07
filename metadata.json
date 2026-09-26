@@ -1,0 +1,6 @@
+{
+  "name": "Abaidullah Trader Analysis",
+  "description": "Advanced scalping chart-analysis AI assistant for TradingView charts, Smart Money Concepts, and multi-timeframe price action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
